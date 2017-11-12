@@ -13,8 +13,8 @@
     "title": "my friends vk"
   },
   "legend": {
-    "edgeLabel": "interaction between friends",
-    "colorLabel": "uniqueness of the person",
+    "edgeLabel": "acquaintance",
+    "colorLabel": "group of friends",
     "nodeLabel": "friend"
   },
   "features": {
